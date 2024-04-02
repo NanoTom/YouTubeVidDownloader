@@ -1,7 +1,5 @@
 # YouTube Video Downloader
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 ## Purpose
 The purpose of this project is to enhance my Python programming skills, particularly focusing on the use of the Tkinter library. This YouTube Video Downloader is built entirely with Python and provides a simple yet efficient way to download videos from YouTube.
 
